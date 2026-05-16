@@ -27,7 +27,7 @@ function App() {
     <main className="container">
       <section className="hero">
         <span className="badge">Welcome</span>
-        <h1>Infrastructure: Where It Changed</h1>
+        <h1>Infrastructure: Aryan is  Changed</h1>
         <p className="subtitle">
           This React website explains the shift to a simpler and cleaner
           infrastructure approach with better maintainability and faster
